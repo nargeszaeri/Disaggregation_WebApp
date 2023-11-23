@@ -40,7 +40,7 @@ tqdm==4.64.1
 1. Clone the GitHub repository:
 
     ```
-    git clone https://github.com/Carleton-DBOM-Research-Group/building-feature-characterization-tool.git
+    git clone https://github.com/nargeszaeri/Disaggregation_WebApp.git
     ```
 
 2. Navigate to the project directory and install the required Python packages:
